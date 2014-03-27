@@ -5,22 +5,21 @@
 100% Working build of Popcorn time from Popcorn Team's RC1.
 
 ### About ###
-
 This project will be a pet project of mine, to constantly improve and add to Popcorn time's functionality.
-Under development (RC1) for Mac OSX - Windows - Linux.
+I have tons of plans to make this application even better than ever, and add additional features & tweaks.
+
+### Builds & Downloads ###
+Check back soon for download links to working builds for Windows, Mac, and Linux.
 
 ### Status  ###
-
 Currently RC1 barebones till I get my hands on it :-)
 
 ### Current APIs Providers  ###
-
 - [YIFY](http://yts.re/api) movie torrents API.
 - [YifySubtitles](ysubtitles.com) for subtitles
 - [Trakt.tv](https://trakt.tv/) for movies metadata.
 
 ### Development ###
-
 This praticular project will be just me for now, but if you would like to help out
 in Popcorn time's development, or have a hand in it, visit Popcorn team to lend a hand.
 https://github.com/popcorn-team/popcorn-app/wiki/Development
