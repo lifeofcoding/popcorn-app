@@ -12,6 +12,7 @@ I have tons of plans to make this application even better than ever, and add add
 Check back soon for download links to working builds for Mac, and Linux.
 
 - [Windows XP/7/8](https://mega.co.nz/#!vNgAwC7Z!apZeYcGFXrBKIErPV0AZ73lQUus8iUH0BEQ3Rd1Ksyk)
+- [Mac OSX](https://mega.co.nz/#!6EgTGBCA!xR_avz9Gb1XZbHkKx9VSpf_5o-yp0-oI2saW8TtGPJw)
 
 ### Status  ###
 Currently RC1 barebones till I get my hands on it :-)
