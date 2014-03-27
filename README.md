@@ -11,7 +11,7 @@ I have tons of plans to make this application even better than ever, and add add
 ### Builds & Downloads ###
 Check back soon for download links to working builds for Mac, and Linux.
 
--Windows XP/7/8
+-Windows XP/7/8<br>
 https://mega.co.nz/#!vNgAwC7Z!apZeYcGFXrBKIErPV0AZ73lQUus8iUH0BEQ3Rd1Ksyk
 
 ### Status  ###
